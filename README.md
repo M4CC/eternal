@@ -1,6 +1,8 @@
 # app
 
 > A Vue.js project
+> Credit goes to @alsciende and the original crew that coded the L5R LCG Deckbuilder.
+> This is my attempt to revive the old L5R TCG by providing the community with its own deckbuilder, something that I believe never existed.
 
 ## Build Setup
 
